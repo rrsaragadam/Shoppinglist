@@ -1,0 +1,40 @@
+┌─────────────────────────────────────────────────────────────────────────────────────────┐
+│  SYSTEMINFORMATION                                                      Version: 5.25.9 │
+└─────────────────────────────────────────────────────────────────────────────────────────┘
+
+Operating System:
+──────────────────────────────────────────────────────────────────────────────────────────
+Platform         : Windows
+Distro           : Microsoft Windows 11 Pro
+Release          : 10.0.26100
+Codename         : 
+Kernel           : 10.0.26100
+Arch             : x64
+Hostname         : RajsThinkpad
+Codepage         : 437
+Build            : 26100
+Hypervisor       : true
+RemoteSession    : 
+
+System:
+──────────────────────────────────────────────────────────────────────────────────────────
+Manufacturer     : LENOVO
+Model            : 20UD000HUS
+Version          : ThinkPad T14 Gen 1
+Virtual          : 
+
+CPU:
+──────────────────────────────────────────────────────────────────────────────────────────
+Manufacturer     : AMD
+Brand            : Ryzen 5 PRO 4650U with Radeon Graphics
+Family           : 23
+Model            : 96
+Stepping         : 1
+Speed            : 2.1
+Cores            : 12
+PhysicalCores    : 6
+PerformanceCores : 12
+EfficiencyCores  : 
+Processors       : 1
+Socket           : None
+

@@ -1,0 +1,9 @@
+Version: 1.96.2 (user setup)
+Commit: fabdb6a30b49f79a7aba0f2ad9df9b399473380f
+Date: 2024-12-19T10:22:47.216Z
+Electron: 32.2.6
+ElectronBuildId: 10629634
+Chromium: 128.0.6613.186
+Node.js: 20.18.1
+V8: 12.8.374.38-electron.0
+OS: Windows_NT x64 10.0.26100
